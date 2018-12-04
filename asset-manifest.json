@@ -1,15 +1,15 @@
 {
-  "main.css": "/abenH/contactmanager.git/static/css/main.499c6569.chunk.css",
-  "main.js": "/abenH/contactmanager.git/static/js/main.982f8d0e.chunk.js",
-  "main.js.map": "/abenH/contactmanager.git/static/js/main.982f8d0e.chunk.js.map",
-  "static/css/1.6a069fce.chunk.css": "/abenH/contactmanager.git/static/css/1.6a069fce.chunk.css",
-  "static/js/1.cf6a5219.chunk.js": "/abenH/contactmanager.git/static/js/1.cf6a5219.chunk.js",
-  "static/js/1.cf6a5219.chunk.js.map": "/abenH/contactmanager.git/static/js/1.cf6a5219.chunk.js.map",
-  "runtime~main.js": "/abenH/contactmanager.git/static/js/runtime~main.425bd698.js",
-  "runtime~main.js.map": "/abenH/contactmanager.git/static/js/runtime~main.425bd698.js.map",
-  "static/css/1.6a069fce.chunk.css.map": "/abenH/contactmanager.git/static/css/1.6a069fce.chunk.css.map",
-  "static/css/main.499c6569.chunk.css.map": "/abenH/contactmanager.git/static/css/main.499c6569.chunk.css.map",
-  "index.html": "/abenH/contactmanager.git/index.html",
-  "precache-manifest.22a27bdbb60c22a67187e9da80b14748.js": "/abenH/contactmanager.git/precache-manifest.22a27bdbb60c22a67187e9da80b14748.js",
-  "service-worker.js": "/abenH/contactmanager.git/service-worker.js"
+  "main.css": "/contactmanager/static/css/main.499c6569.chunk.css",
+  "main.js": "/contactmanager/static/js/main.bd4c7886.chunk.js",
+  "main.js.map": "/contactmanager/static/js/main.bd4c7886.chunk.js.map",
+  "static/css/1.6a069fce.chunk.css": "/contactmanager/static/css/1.6a069fce.chunk.css",
+  "static/js/1.cf6a5219.chunk.js": "/contactmanager/static/js/1.cf6a5219.chunk.js",
+  "static/js/1.cf6a5219.chunk.js.map": "/contactmanager/static/js/1.cf6a5219.chunk.js.map",
+  "runtime~main.js": "/contactmanager/static/js/runtime~main.72aa8290.js",
+  "runtime~main.js.map": "/contactmanager/static/js/runtime~main.72aa8290.js.map",
+  "static/css/1.6a069fce.chunk.css.map": "/contactmanager/static/css/1.6a069fce.chunk.css.map",
+  "static/css/main.499c6569.chunk.css.map": "/contactmanager/static/css/main.499c6569.chunk.css.map",
+  "index.html": "/contactmanager/index.html",
+  "precache-manifest.0694fc484cd4fda78024c0b1cba23dc7.js": "/contactmanager/precache-manifest.0694fc484cd4fda78024c0b1cba23dc7.js",
+  "service-worker.js": "/contactmanager/service-worker.js"
 }
